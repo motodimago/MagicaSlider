@@ -1,0 +1,492 @@
+TMagicaSlider
+v7
+r0
+t341853823.411172
+cCheck dependencies
+cProcessInfoPlistFile /Users/motodimago/dropbox/MagicaSlider/build/Debug-iphonesimulator/MagicaSlider.app/Info.plist MagicaSlider/MagicaSlider-Info.plist
+cProcessPCH /var/folders/qC/qC2GNY0XEzWIyabkWRS3U++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MagicaSlider-Prefix-artsinyjbntiobfslvrvwzsnfnid/MagicaSlider-Prefix.pch.pth MagicaSlider/MagicaSlider-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/Objects-normal/i386/main.o /Users/motodimago/dropbox/MagicaSlider/MagicaSlider/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/Objects-normal/i386/AppDelegate.o /Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/Objects-normal/i386/Sample1ViewController.o /Users/motodimago/dropbox/MagicaSlider/MagicaSlider/Sample1ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/Objects-normal/i386/Sample2ViewController.o /Users/motodimago/dropbox/MagicaSlider/MagicaSlider/Sample2ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/Objects-normal/i386/Sample3ViewController.o /Users/motodimago/dropbox/MagicaSlider/MagicaSlider/Sample3ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/Objects-normal/i386/MagicaSlider.o /Users/motodimago/dropbox/MagicaSlider/../../Dropbox/MagicaSlider/Libray/MagicaSlider.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCopyStringsFile /Users/motodimago/dropbox/MagicaSlider/build/Debug-iphonesimulator/MagicaSlider.app/en.lproj/InfoPlist.strings MagicaSlider/en.lproj/InfoPlist.strings
+cCpResource build/Debug-iphonesimulator/MagicaSlider.app/bar.png MagicaSlider/Resource/bar.png
+cCpResource build/Debug-iphonesimulator/MagicaSlider.app/bar@2x.png MagicaSlider/Resource/bar@2x.png
+cCpResource build/Debug-iphonesimulator/MagicaSlider.app/circle.png MagicaSlider/Resource/circle.png
+cCpResource build/Debug-iphonesimulator/MagicaSlider.app/circle@2x.png MagicaSlider/Resource/circle@2x.png
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/Availability.h
+c000000004D4F7A2B0000000000001B19
+t1297054251
+s6937
+
+N/Users/motodimago/Dropbox/MagicaSlider/Libray/MagicaSlider.h
+c000000004EABAC1E000000000000099F
+t1319873566
+s2463
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/motodimago/dropbox/MagicaSlider/../../Dropbox/MagicaSlider/Libray/MagicaSlider.h
+c000000004EABAC1E000000000000099F
+t1319873566
+s2463
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/motodimago/dropbox/MagicaSlider/../../Dropbox/MagicaSlider/Libray/MagicaSlider.m
+c000000004EACDCBA0000000000003230
+t1319951546
+s12848
+i"MagicaSlider.h"
+
+N/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/../../_MagiSlider/Libray/MagicaSlider.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/../../_MagiSlider/Libray/MagicaSlider.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.h
+c000000004EACD9DB00000000000000EE
+t1319950811
+s238
+i<UIKit/UIKit.h>
+
+N/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.m
+c000000004EAD69E30000000000000EB9
+t1319987683
+s3769
+i"AppDelegate.h"
+i"Sample1ViewController.h"
+i"Sample2ViewController.h"
+i"Sample3ViewController.h"
+
+N/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/MagicaSlider-Prefix.pch
+c000000004EACD3300000000000000147
+t1319949104
+s327
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/Resource/bar.png
+c000000004E7BF98C0000000000000080
+t1316747660
+s128
+
+N/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/Resource/bar@2x.png
+c000000004E7BF98C0000000000000082
+t1316747660
+s130
+
+N/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/Resource/circle.png
+c000000004E7BF98C00000000000000FD
+t1316747660
+s253
+
+N/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/Resource/circle@2x.png
+c000000004E7BF98C0000000000000192
+t1316747660
+s402
+
+N/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/Sample1ViewController.h
+c000000004EAD156700000000000000AF
+t1319966055
+s175
+i<UIKit/UIKit.h>
+
+N/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/Sample1ViewController.m
+c000000004EAD2F5F0000000000000C4B
+t1319972703
+s3147
+i"Sample1ViewController.h"
+i"MagicaSlider.h"
+
+N/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/Sample2ViewController.h
+c000000004EAD6683000000000000010B
+t1319986819
+s267
+i<UIKit/UIKit.h>
+
+N/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/Sample2ViewController.m
+c000000004EAD6ACE0000000000001A64
+t1319987918
+s6756
+i"Sample2ViewController.h"
+i"MagicaSlider.h"
+
+N/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/Sample3ViewController.h
+c000000004EAD792A000000000000011B
+t1319991594
+s283
+i<UIKit/UIKit.h>
+i"MagicaSlider.h"
+
+N/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/Sample3ViewController.m
+c000000004EAD7DA3000000000000091E
+t1319992739
+s2334
+i"Sample3ViewController.h"
+i"MagicaSlider.h"
+
+N/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/en.lproj/InfoPlist.strings
+c000000004EACD330000000000000002D
+t1319949104
+s45
+
+N/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/main.m
+c000000004EACD97C00000000000000CF
+t1319950716
+s207
+i<UIKit/UIKit.h>
+i"AppDelegate.h"
+
+N/Users/motodimago/dropbox/MagicaSlider/build/Debug-iphonesimulator/MagicaSlider.app
+t2
+s0
+
+N/Users/motodimago/dropbox/MagicaSlider/build/Debug-iphonesimulator/MagicaSlider.app.dSYM
+t2
+s0
+
+N/Users/motodimago/dropbox/MagicaSlider/build/Debug-iphonesimulator/MagicaSlider.app/Info.plist
+t1320161021
+s838
+
+N/Users/motodimago/dropbox/MagicaSlider/build/Debug-iphonesimulator/MagicaSlider.app/MagicaSlider
+t2
+s0
+
+N/Users/motodimago/dropbox/MagicaSlider/build/Debug-iphonesimulator/MagicaSlider.app/PkgInfo
+t1320161021
+s8
+
+N/Users/motodimago/dropbox/MagicaSlider/build/Debug-iphonesimulator/MagicaSlider.app/bar.png
+t1320161023
+s128
+
+N/Users/motodimago/dropbox/MagicaSlider/build/Debug-iphonesimulator/MagicaSlider.app/bar@2x.png
+t1320161023
+s130
+
+N/Users/motodimago/dropbox/MagicaSlider/build/Debug-iphonesimulator/MagicaSlider.app/circle.png
+t1320161023
+s253
+
+N/Users/motodimago/dropbox/MagicaSlider/build/Debug-iphonesimulator/MagicaSlider.app/circle@2x.png
+t1320161023
+s402
+
+N/Users/motodimago/dropbox/MagicaSlider/build/Debug-iphonesimulator/MagicaSlider.app/en.lproj/InfoPlist.strings
+t1320161023
+s42
+
+N/Users/motodimago/dropbox/MagicaSlider/build/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/motodimago/dropbox/MagicaSlider/build/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/Objects-normal/i386/MagicaSlider.LinkFileList
+c000000004EB00EFD000000000000035A
+t1320161021
+s858
+
+N/Users/motodimago/dropbox/MagicaSlider/build/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/Objects-normal/i386/MagicaSlider.o
+t1320161023
+s110064
+
+N/Users/motodimago/dropbox/MagicaSlider/build/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/Objects-normal/i386/Sample1ViewController.o
+t1320161023
+s50876
+
+N/Users/motodimago/dropbox/MagicaSlider/build/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/Objects-normal/i386/Sample2ViewController.o
+t1320161023
+s61784
+
+N/Users/motodimago/dropbox/MagicaSlider/build/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/Objects-normal/i386/Sample3ViewController.o
+t2
+s0
+
+N/Users/motodimago/dropbox/MagicaSlider/build/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/var/folders/qC/qC2GNY0XEzWIyabkWRS3U++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MagicaSlider-Prefix-artsinyjbntiobfslvrvwzsnfnid/MagicaSlider-Prefix.pch.pth
+t1320161022
+s3345800
+
+NMagicaSlider/MagicaSlider-Info.plist
+c000000004EACD33000000000000004B7
+t1319949104
+s1207
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies341853821#341853821#0(0"0(0#1#0"4261848#0"0#
+
+CCompileC build/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/Objects-normal/i386/AppDelegate.o /Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s341853822.449163
+e341853822.497438
+r0
+xCompileC
+xbuild/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/Objects-normal/i386/AppDelegate.o
+x/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.m:1:
+o/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.h:5:12: error: unknown property attribute 'strong'
+o @property (strong, nonatomic) UIWindow *window;
+o            ^
+o/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.h:5:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed
+o @property (strong, nonatomic) UIWindow *window;
+o ^
+o/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.h:5:1: warning: default property attribute 'assign' not appropriate for non-gc object
+o/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.h:7:12: error: unknown property attribute 'strong'
+o @property (strong, nonatomic) UITabBarController *tabBarController;
+o            ^
+o/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.h:7:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed
+o @property (strong, nonatomic) UITabBarController *tabBarController;
+o ^
+o/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.h:7:1: warning: default property attribute 'assign' not appropriate for non-gc object
+o4 warnings and 2 errors generated.
+lSLF07#2@73"Compile /Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.m341853822#341853822#0(1242"In file included from /Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.m:1:/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.h:5:12: error: unknown property attribute 'strong' @property (strong, nonatomic) UIWindow *window;            ^/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.h:5:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed @property (strong, nonatomic) UIWindow *window; ^/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.h:5:1: warning: default property attribute 'assign' not appropriate for non-gc object/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.h:7:12: error: unknown property attribute 'strong' @property (strong, nonatomic) UITabBarController *tabBarController;            ^/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.h:7:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed @property (strong, nonatomic) UITabBarController *tabBarController; ^/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.h:7:1: warning: default property attribute 'assign' not appropriate for non-gc object4 warnings and 2 errors generated.6(4@35"Unknown property attribute 'strong'341853822#91#115#2(7@90"In file included from /Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.m:1:341853822#0#91#0(6@65"/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.m341680483#1#0#1#0#0"0(13@104"Unknown property attribute 'strong' in /Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.h341853822#4294967295#0#0(6@65"/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.h341643611#5#12#0#0#0"0(6@65"/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.h341643611#5#12#0#0#28"unknown property attribute *0(22@77"No 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed341853822#269#158#2(7@90"In file included from /Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.m:1:341853822#4294967295#0#0(6@65"/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.m341680483#1#0#1#0#0"0(13@146"No 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed in /Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.h341853822#4294967295#0#0(6@65"/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.h341643611#5#1#0#0#0"0(6@65"/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.h341643611#5#1#0#0#77"no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed0(22@69"Default property attribute 'assign' not appropriate for non-gc object341853822#479#150#2(7@90"In file included from /Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.m:1:341853822#4294967295#0#0(6@65"/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.m341680483#1#0#1#0#0"0(13@138"Default property attribute 'assign' not appropriate for non-gc object in /Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.h341853822#4294967295#0#0(6@65"/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.h341643611#5#1#0#0#0"0(6@65"/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.h341643611#5#1#0#0#69"default property attribute 'assign' not appropriate for non-gc object0(4@35"Unknown property attribute 'strong'341853822#629#115#2(7@90"In file included from /Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.m:1:341853822#4294967295#0#0(6@65"/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.m341680483#1#0#1#0#0"0(13@104"Unknown property attribute 'strong' in /Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.h341853822#4294967295#0#0(6@65"/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.h341643611#7#12#0#0#0"0(6@65"/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.h341643611#7#12#0#0#28"unknown property attribute *0(22@77"No 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed341853822#827#158#2(7@90"In file included from /Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.m:1:341853822#4294967295#0#0(6@65"/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.m341680483#1#0#1#0#0"0(13@146"No 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed in /Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.h341853822#4294967295#0#0(6@65"/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.h341643611#7#1#0#0#0"0(6@65"/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.h341643611#7#1#0#0#77"no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed0(22@69"Default property attribute 'assign' not appropriate for non-gc object341853822#1057#150#2(7@90"In file included from /Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.m:1:341853822#4294967295#0#0(6@65"/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.m341680483#1#0#1#0#0"0(13@138"Default property attribute 'assign' not appropriate for non-gc object in /Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.h341853822#4294967295#0#0(6@65"/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.h341643611#7#1#0#0#0"0(6@65"/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.h341643611#7#1#0#0#69"default property attribute 'assign' not appropriate for non-gc object0(0#0#65"/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.m2551325216#2090"    cd /Users/motodimago/dropbox/MagicaSlider    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/motodimago/dropbox/MagicaSlider/build/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/MagicaSlider-generated-files.hmap -I/Users/motodimago/dropbox/MagicaSlider/build/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/MagicaSlider-own-target-headers.hmap -I/Users/motodimago/dropbox/MagicaSlider/build/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/MagicaSlider-all-target-headers.hmap -iquote /Users/motodimago/dropbox/MagicaSlider/build/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/MagicaSlider-project-headers.hmap -F/Users/motodimago/dropbox/MagicaSlider/build/Debug-iphonesimulator -I/Users/motodimago/dropbox/MagicaSlider/build/Debug-iphonesimulator/include -I/Users/motodimago/dropbox/MagicaSlider/build/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/DerivedSources/i386 -I/Users/motodimago/dropbox/MagicaSlider/build/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/DerivedSources -include /var/folders/qC/qC2GNY0XEzWIyabkWRS3U++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MagicaSlider-Prefix-artsinyjbntiobfslvrvwzsnfnid/MagicaSlider-Prefix.pch -c /Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.m -o /Users/motodimago/dropbox/MagicaSlider/build/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/Objects-normal/i386/AppDelegate.o1#
+
+CCompileC build/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/Objects-normal/i386/MagicaSlider.o /Users/motodimago/dropbox/MagicaSlider/../../Dropbox/MagicaSlider/Libray/MagicaSlider.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s341853823.047783
+e341853823.327690
+r1
+xCompileC
+xbuild/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/Objects-normal/i386/MagicaSlider.o
+x/Users/motodimago/dropbox/MagicaSlider/../../Dropbox/MagicaSlider/Libray/MagicaSlider.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@95"Compile /Users/motodimago/dropbox/MagicaSlider/../../Dropbox/MagicaSlider/Libray/MagicaSlider.m341853823#341853823#0(0"0(0#0#87"/Users/motodimago/dropbox/MagicaSlider/../../Dropbox/MagicaSlider/Libray/MagicaSlider.m2551325216#2113"    cd /Users/motodimago/dropbox/MagicaSlider    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/motodimago/dropbox/MagicaSlider/build/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/MagicaSlider-generated-files.hmap -I/Users/motodimago/dropbox/MagicaSlider/build/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/MagicaSlider-own-target-headers.hmap -I/Users/motodimago/dropbox/MagicaSlider/build/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/MagicaSlider-all-target-headers.hmap -iquote /Users/motodimago/dropbox/MagicaSlider/build/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/MagicaSlider-project-headers.hmap -F/Users/motodimago/dropbox/MagicaSlider/build/Debug-iphonesimulator -I/Users/motodimago/dropbox/MagicaSlider/build/Debug-iphonesimulator/include -I/Users/motodimago/dropbox/MagicaSlider/build/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/DerivedSources/i386 -I/Users/motodimago/dropbox/MagicaSlider/build/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/DerivedSources -include /var/folders/qC/qC2GNY0XEzWIyabkWRS3U++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MagicaSlider-Prefix-artsinyjbntiobfslvrvwzsnfnid/MagicaSlider-Prefix.pch -c /Users/motodimago/dropbox/MagicaSlider/../../Dropbox/MagicaSlider/Libray/MagicaSlider.m -o /Users/motodimago/dropbox/MagicaSlider/build/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/Objects-normal/i386/MagicaSlider.o0#
+
+CCompileC build/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/Objects-normal/i386/MagicaSlider.o /Users/motodimago/dropbox/MagicaSlider/MagicaSlider/../../_MagiSlider/Libray/MagicaSlider.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s341853597.703240
+e341853597.718847
+r0
+xCompileC
+xbuild/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/Objects-normal/i386/MagicaSlider.o
+x/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/../../_MagiSlider/Libray/MagicaSlider.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oclang: error: no such file or directory: '/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/../../_MagiSlider/Libray/MagicaSlider.m'
+oclang: error: no input files
+lSLF07#2@99"Compile /Users/motodimago/dropbox/MagicaSlider/MagicaSlider/../../_MagiSlider/Libray/MagicaSlider.m341853597#341853597#0(266"clang: error: no such file or directory: '/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/../../_MagiSlider/Libray/MagicaSlider.m'clang: error: no input filesCommand /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang failed with exit code 11(4@101"Command /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang failed with exit code 1341853597#4294967295#0#0(1@0"0(0#0#91"/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/../../_MagiSlider/Libray/MagicaSlider.m2551325216#2117"    cd /Users/motodimago/dropbox/MagicaSlider    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/motodimago/dropbox/MagicaSlider/build/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/MagicaSlider-generated-files.hmap -I/Users/motodimago/dropbox/MagicaSlider/build/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/MagicaSlider-own-target-headers.hmap -I/Users/motodimago/dropbox/MagicaSlider/build/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/MagicaSlider-all-target-headers.hmap -iquote /Users/motodimago/dropbox/MagicaSlider/build/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/MagicaSlider-project-headers.hmap -F/Users/motodimago/dropbox/MagicaSlider/build/Debug-iphonesimulator -I/Users/motodimago/dropbox/MagicaSlider/build/Debug-iphonesimulator/include -I/Users/motodimago/dropbox/MagicaSlider/build/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/DerivedSources/i386 -I/Users/motodimago/dropbox/MagicaSlider/build/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/DerivedSources -include /var/folders/qC/qC2GNY0XEzWIyabkWRS3U++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MagicaSlider-Prefix-artsinyjbntiobfslvrvwzsnfnid/MagicaSlider-Prefix.pch -c /Users/motodimago/dropbox/MagicaSlider/MagicaSlider/../../_MagiSlider/Libray/MagicaSlider.m -o /Users/motodimago/dropbox/MagicaSlider/build/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/Objects-normal/i386/MagicaSlider.o1#
+
+CCompileC build/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/Objects-normal/i386/Sample1ViewController.o /Users/motodimago/dropbox/MagicaSlider/MagicaSlider/Sample1ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s341853822.488606
+e341853823.043094
+r1
+xCompileC
+xbuild/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/Objects-normal/i386/Sample1ViewController.o
+x/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/Sample1ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/Sample1ViewController.m:27:20:{27:20-27:54}: warning: method '+underPageBackgroundColor' not found (return type defaults to 'id')
+o                    [UIColor underPageBackgroundColor],
+o                    ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o1 warning generated.
+lSLF07#2@83"Compile /Users/motodimago/dropbox/MagicaSlider/MagicaSlider/Sample1ViewController.m341853822#341853823#0(314"/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/Sample1ViewController.m:27:20:{27:20-27:54}: warning: method '+underPageBackgroundColor' not found (return type defaults to 'id')                    [UIColor underPageBackgroundColor],                    ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~1 warning generated.1(22@75"Method '+underPageBackgroundColor' not found (return type defaults to 'id')341853822#0#182#0(6@75"/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/Sample1ViewController.m341665503#27#20#0#0#49"method * not found (return type defaults to 'id')1(6@75"/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/Sample1ViewController.m341665503#27#20#27#54#0#0#75"/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/Sample1ViewController.m2551325216#2110"    cd /Users/motodimago/dropbox/MagicaSlider    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/motodimago/dropbox/MagicaSlider/build/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/MagicaSlider-generated-files.hmap -I/Users/motodimago/dropbox/MagicaSlider/build/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/MagicaSlider-own-target-headers.hmap -I/Users/motodimago/dropbox/MagicaSlider/build/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/MagicaSlider-all-target-headers.hmap -iquote /Users/motodimago/dropbox/MagicaSlider/build/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/MagicaSlider-project-headers.hmap -F/Users/motodimago/dropbox/MagicaSlider/build/Debug-iphonesimulator -I/Users/motodimago/dropbox/MagicaSlider/build/Debug-iphonesimulator/include -I/Users/motodimago/dropbox/MagicaSlider/build/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/DerivedSources/i386 -I/Users/motodimago/dropbox/MagicaSlider/build/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/DerivedSources -include /var/folders/qC/qC2GNY0XEzWIyabkWRS3U++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MagicaSlider-Prefix-artsinyjbntiobfslvrvwzsnfnid/MagicaSlider-Prefix.pch -c /Users/motodimago/dropbox/MagicaSlider/MagicaSlider/Sample1ViewController.m -o /Users/motodimago/dropbox/MagicaSlider/build/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/Objects-normal/i386/Sample1ViewController.o0#
+
+CCompileC build/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/Objects-normal/i386/Sample2ViewController.o /Users/motodimago/dropbox/MagicaSlider/MagicaSlider/Sample2ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s341853822.497570
+e341853823.047638
+r1
+xCompileC
+xbuild/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/Objects-normal/i386/Sample2ViewController.o
+x/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/Sample2ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/Sample2ViewController.m:30:20:{30:20-30:54}: warning: method '+underPageBackgroundColor' not found (return type defaults to 'id')
+o                    [UIColor underPageBackgroundColor],
+o                    ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/Sample2ViewController.m:54:20:{54:20-54:54}: warning: method '+underPageBackgroundColor' not found (return type defaults to 'id')
+o                    [UIColor underPageBackgroundColor],
+o                    ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o2 warnings generated.
+lSLF07#2@83"Compile /Users/motodimago/dropbox/MagicaSlider/MagicaSlider/Sample2ViewController.m341853822#341853823#0(608"/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/Sample2ViewController.m:30:20:{30:20-30:54}: warning: method '+underPageBackgroundColor' not found (return type defaults to 'id')                    [UIColor underPageBackgroundColor],                    ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/Sample2ViewController.m:54:20:{54:20-54:54}: warning: method '+underPageBackgroundColor' not found (return type defaults to 'id')                    [UIColor underPageBackgroundColor],                    ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~2 warnings generated.2(22@75"Method '+underPageBackgroundColor' not found (return type defaults to 'id')341853822#0#182#0(6@75"/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/Sample2ViewController.m341680718#30#20#0#0#49"method * not found (return type defaults to 'id')1(6@75"/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/Sample2ViewController.m341680718#30#20#30#54#22@75"Method '+underPageBackgroundColor' not found (return type defaults to 'id')341853822#293#182#0(6@75"/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/Sample2ViewController.m341680718#54#20#0#0#49"method * not found (return type defaults to 'id')1(6@75"/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/Sample2ViewController.m341680718#54#20#54#54#0#0#75"/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/Sample2ViewController.m2551325216#2110"    cd /Users/motodimago/dropbox/MagicaSlider    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/motodimago/dropbox/MagicaSlider/build/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/MagicaSlider-generated-files.hmap -I/Users/motodimago/dropbox/MagicaSlider/build/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/MagicaSlider-own-target-headers.hmap -I/Users/motodimago/dropbox/MagicaSlider/build/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/MagicaSlider-all-target-headers.hmap -iquote /Users/motodimago/dropbox/MagicaSlider/build/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/MagicaSlider-project-headers.hmap -F/Users/motodimago/dropbox/MagicaSlider/build/Debug-iphonesimulator -I/Users/motodimago/dropbox/MagicaSlider/build/Debug-iphonesimulator/include -I/Users/motodimago/dropbox/MagicaSlider/build/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/DerivedSources/i386 -I/Users/motodimago/dropbox/MagicaSlider/build/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/DerivedSources -include /var/folders/qC/qC2GNY0XEzWIyabkWRS3U++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MagicaSlider-Prefix-artsinyjbntiobfslvrvwzsnfnid/MagicaSlider-Prefix.pch -c /Users/motodimago/dropbox/MagicaSlider/MagicaSlider/Sample2ViewController.m -o /Users/motodimago/dropbox/MagicaSlider/build/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/Objects-normal/i386/Sample2ViewController.o0#
+
+CCompileC build/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/Objects-normal/i386/Sample3ViewController.o /Users/motodimago/dropbox/MagicaSlider/MagicaSlider/Sample3ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s341853823.043234
+e341853823.093624
+r0
+xCompileC
+xbuild/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/Objects-normal/i386/Sample3ViewController.o
+x/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/Sample3ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/Sample3ViewController.m:30:13: error: property 'MIhalfWidth' not found on object of type 'MagicaSlider *'
+o         MS2.MIhalfWidth = size / 2.0;
+o             ^
+o/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/Sample3ViewController.m:31:13: error: property 'MIcircleWidth' not found on object of type 'MagicaSlider *'
+o         MS2.MIcircleWidth =  size / 2.0 - 10 * 2.0;
+o             ^
+o/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/Sample3ViewController.m:46:13: error: property 'MIcolor' not found on object of type 'MagicaSlider *'; did you mean 'MIColor'?
+o         MS1.MIcolor = [[UIColor colorWithHue:[degree floatValue]/360 saturation:1 brightness:1 alpha:1] retain];
+o             ^~~~~~~
+o             MIColor
+oIn file included from /Users/motodimago/dropbox/MagicaSlider/MagicaSlider/Sample3ViewController.m:1:
+oIn file included from /Users/motodimago/dropbox/MagicaSlider/MagicaSlider/Sample3ViewController.h:3:
+o/Users/motodimago/dropbox/MagicaSlider/../../Dropbox/MagicaSlider/Libray/MagicaSlider.h:62:40: note: 'MIColor' declared here
+o @property(nonatomic, retain) UIColor  *MIColor;
+o                                        ^
+o3 errors generated.
+lSLF07#2@83"Compile /Users/motodimago/dropbox/MagicaSlider/MagicaSlider/Sample3ViewController.m341853823#341853823#0(1213"/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/Sample3ViewController.m:30:13: error: property 'MIhalfWidth' not found on object of type 'MagicaSlider *'         MS2.MIhalfWidth = size / 2.0;             ^/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/Sample3ViewController.m:31:13: error: property 'MIcircleWidth' not found on object of type 'MagicaSlider *'         MS2.MIcircleWidth =  size / 2.0 - 10 * 2.0;             ^/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/Sample3ViewController.m:46:13: error: property 'MIcolor' not found on object of type 'MagicaSlider *'; did you mean 'MIColor'?         MS1.MIcolor = [[UIColor colorWithHue:[degree floatValue]/360 saturation:1 brightness:1 alpha:1] retain];             ^~~~~~~             MIColorIn file included from /Users/motodimago/dropbox/MagicaSlider/MagicaSlider/Sample3ViewController.m:1:In file included from /Users/motodimago/dropbox/MagicaSlider/MagicaSlider/Sample3ViewController.h:3:/Users/motodimago/dropbox/MagicaSlider/../../Dropbox/MagicaSlider/Libray/MagicaSlider.h:62:40: note: 'MIColor' declared here @property(nonatomic, retain) UIColor  *MIColor;                                        ^3 errors generated.3(4@67"Property 'MIhalfWidth' not found on object of type 'MagicaSlider *'341853823#0#158#0(6@75"/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/Sample3ViewController.m341685539#30#13#0#0#40"property * not found on object of type *0(4@69"Property 'MIcircleWidth' not found on object of type 'MagicaSlider *'341853823#212#160#0(6@75"/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/Sample3ViewController.m341685539#31#13#0#0#40"property * not found on object of type *0(4@88"Property 'MIcolor' not found on object of type 'MagicaSlider *'; did you mean 'MIColor'?341853823#440#179#1(13@23"'MIColor' declared here341853823#977#125#3(7@100"In file included from /Users/motodimago/dropbox/MagicaSlider/MagicaSlider/Sample3ViewController.h:3:341853823#876#101#0(6@75"/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/Sample3ViewController.h341684394#3#0#3#0#0"0(7@100"In file included from /Users/motodimago/dropbox/MagicaSlider/MagicaSlider/Sample3ViewController.m:1:341853823#775#101#0(6@75"/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/Sample3ViewController.m341685539#1#0#1#0#0"0(13@114"'MIColor' declared here in /Users/motodimago/dropbox/MagicaSlider/../../Dropbox/MagicaSlider/Libray/MagicaSlider.h341853823#4294967295#0#0(6@87"/Users/motodimago/dropbox/MagicaSlider/../../Dropbox/MagicaSlider/Libray/MagicaSlider.h341566366#62#40#0#0#0"0(6@87"/Users/motodimago/dropbox/MagicaSlider/../../Dropbox/MagicaSlider/Libray/MagicaSlider.h341566366#62#40#0#0#15"* declared here0(6@75"/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/Sample3ViewController.m341685539#46#13#0#0#57"property * not found on object of type *; did you mean *?0(0#0#75"/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/Sample3ViewController.m2551325216#2110"    cd /Users/motodimago/dropbox/MagicaSlider    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/motodimago/dropbox/MagicaSlider/build/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/MagicaSlider-generated-files.hmap -I/Users/motodimago/dropbox/MagicaSlider/build/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/MagicaSlider-own-target-headers.hmap -I/Users/motodimago/dropbox/MagicaSlider/build/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/MagicaSlider-all-target-headers.hmap -iquote /Users/motodimago/dropbox/MagicaSlider/build/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/MagicaSlider-project-headers.hmap -F/Users/motodimago/dropbox/MagicaSlider/build/Debug-iphonesimulator -I/Users/motodimago/dropbox/MagicaSlider/build/Debug-iphonesimulator/include -I/Users/motodimago/dropbox/MagicaSlider/build/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/DerivedSources/i386 -I/Users/motodimago/dropbox/MagicaSlider/build/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/DerivedSources -include /var/folders/qC/qC2GNY0XEzWIyabkWRS3U++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MagicaSlider-Prefix-artsinyjbntiobfslvrvwzsnfnid/MagicaSlider-Prefix.pch -c /Users/motodimago/dropbox/MagicaSlider/MagicaSlider/Sample3ViewController.m -o /Users/motodimago/dropbox/MagicaSlider/build/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/Objects-normal/i386/Sample3ViewController.o1#
+
+CCompileC build/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/Objects-normal/i386/main.o /Users/motodimago/dropbox/MagicaSlider/MagicaSlider/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s341853822.447623
+e341853822.488481
+r0
+xCompileC
+xbuild/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/Objects-normal/i386/main.o
+x/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/motodimago/dropbox/MagicaSlider/MagicaSlider/main.m:3:
+o/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.h:5:12: error: unknown property attribute 'strong'
+o @property (strong, nonatomic) UIWindow *window;
+o            ^
+o/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.h:5:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed
+o @property (strong, nonatomic) UIWindow *window;
+o ^
+o/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.h:5:1: warning: default property attribute 'assign' not appropriate for non-gc object
+o/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.h:7:12: error: unknown property attribute 'strong'
+o @property (strong, nonatomic) UITabBarController *tabBarController;
+o            ^
+o/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.h:7:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed
+o @property (strong, nonatomic) UITabBarController *tabBarController;
+o ^
+o/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.h:7:1: warning: default property attribute 'assign' not appropriate for non-gc object
+o/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/main.m:7:5: error: unexpected '@' in program
+o     @autoreleasepool {
+o     ^
+o4 warnings and 3 errors generated.
+lSLF07#2@66"Compile /Users/motodimago/dropbox/MagicaSlider/MagicaSlider/main.m341853822#341853822#0(1363"In file included from /Users/motodimago/dropbox/MagicaSlider/MagicaSlider/main.m:3:/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.h:5:12: error: unknown property attribute 'strong' @property (strong, nonatomic) UIWindow *window;            ^/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.h:5:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed @property (strong, nonatomic) UIWindow *window; ^/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.h:5:1: warning: default property attribute 'assign' not appropriate for non-gc object/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.h:7:12: error: unknown property attribute 'strong' @property (strong, nonatomic) UITabBarController *tabBarController;            ^/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.h:7:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed @property (strong, nonatomic) UITabBarController *tabBarController; ^/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.h:7:1: warning: default property attribute 'assign' not appropriate for non-gc object/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/main.m:7:5: error: unexpected '@' in program     @autoreleasepool {     ^4 warnings and 3 errors generated.7(4@35"Unknown property attribute 'strong'341853822#84#115#2(7@83"In file included from /Users/motodimago/dropbox/MagicaSlider/MagicaSlider/main.m:3:341853822#0#84#0(6@58"/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/main.m341643516#3#0#3#0#0"0(13@104"Unknown property attribute 'strong' in /Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.h341853822#4294967295#0#0(6@65"/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.h341643611#5#12#0#0#0"0(6@65"/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.h341643611#5#12#0#0#28"unknown property attribute *0(22@77"No 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed341853822#262#158#2(7@83"In file included from /Users/motodimago/dropbox/MagicaSlider/MagicaSlider/main.m:3:341853822#4294967295#0#0(6@58"/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/main.m341643516#3#0#3#0#0"0(13@146"No 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed in /Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.h341853822#4294967295#0#0(6@65"/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.h341643611#5#1#0#0#0"0(6@65"/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.h341643611#5#1#0#0#77"no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed0(22@69"Default property attribute 'assign' not appropriate for non-gc object341853822#472#150#2(7@83"In file included from /Users/motodimago/dropbox/MagicaSlider/MagicaSlider/main.m:3:341853822#4294967295#0#0(6@58"/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/main.m341643516#3#0#3#0#0"0(13@138"Default property attribute 'assign' not appropriate for non-gc object in /Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.h341853822#4294967295#0#0(6@65"/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.h341643611#5#1#0#0#0"0(6@65"/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.h341643611#5#1#0#0#69"default property attribute 'assign' not appropriate for non-gc object0(4@35"Unknown property attribute 'strong'341853822#622#115#2(7@83"In file included from /Users/motodimago/dropbox/MagicaSlider/MagicaSlider/main.m:3:341853822#4294967295#0#0(6@58"/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/main.m341643516#3#0#3#0#0"0(13@104"Unknown property attribute 'strong' in /Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.h341853822#4294967295#0#0(6@65"/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.h341643611#7#12#0#0#0"0(6@65"/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.h341643611#7#12#0#0#28"unknown property attribute *0(22@77"No 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed341853822#820#158#2(7@83"In file included from /Users/motodimago/dropbox/MagicaSlider/MagicaSlider/main.m:3:341853822#4294967295#0#0(6@58"/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/main.m341643516#3#0#3#0#0"0(13@146"No 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed in /Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.h341853822#4294967295#0#0(6@65"/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.h341643611#7#1#0#0#0"0(6@65"/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.h341643611#7#1#0#0#77"no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed0(22@69"Default property attribute 'assign' not appropriate for non-gc object341853822#1050#150#2(7@83"In file included from /Users/motodimago/dropbox/MagicaSlider/MagicaSlider/main.m:3:341853822#4294967295#0#0(6@58"/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/main.m341643516#3#0#3#0#0"0(13@138"Default property attribute 'assign' not appropriate for non-gc object in /Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.h341853822#4294967295#0#0(6@65"/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.h341643611#7#1#0#0#0"0(6@65"/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/AppDelegate.h341643611#7#1#0#0#69"default property attribute 'assign' not appropriate for non-gc object0(4@25"Unexpected '@' in program341853822#1200#97#0(6@58"/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/main.m341643516#7#5#0#0#25"unexpected '@' in program0(0#0#58"/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/main.m4261848#2076"    cd /Users/motodimago/dropbox/MagicaSlider    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/motodimago/dropbox/MagicaSlider/build/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/MagicaSlider-generated-files.hmap -I/Users/motodimago/dropbox/MagicaSlider/build/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/MagicaSlider-own-target-headers.hmap -I/Users/motodimago/dropbox/MagicaSlider/build/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/MagicaSlider-all-target-headers.hmap -iquote /Users/motodimago/dropbox/MagicaSlider/build/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/MagicaSlider-project-headers.hmap -F/Users/motodimago/dropbox/MagicaSlider/build/Debug-iphonesimulator -I/Users/motodimago/dropbox/MagicaSlider/build/Debug-iphonesimulator/include -I/Users/motodimago/dropbox/MagicaSlider/build/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/DerivedSources/i386 -I/Users/motodimago/dropbox/MagicaSlider/build/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/DerivedSources -include /var/folders/qC/qC2GNY0XEzWIyabkWRS3U++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MagicaSlider-Prefix-artsinyjbntiobfslvrvwzsnfnid/MagicaSlider-Prefix.pch -c /Users/motodimago/dropbox/MagicaSlider/MagicaSlider/main.m -o /Users/motodimago/dropbox/MagicaSlider/build/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/Objects-normal/i386/main.o1#
+
+CCopyStringsFile /Users/motodimago/dropbox/MagicaSlider/build/Debug-iphonesimulator/MagicaSlider.app/en.lproj/InfoPlist.strings MagicaSlider/en.lproj/InfoPlist.strings
+s341853823.327814
+e341853823.410899
+r1
+xCopyStringsFile
+x/Users/motodimago/dropbox/MagicaSlider/build/Debug-iphonesimulator/MagicaSlider.app/en.lproj/InfoPlist.strings
+xMagicaSlider/en.lproj/InfoPlist.strings
+lSLF07#2@44"Copy MagicaSlider/en.lproj/InfoPlist.strings341853823#341853823#0(0"0(0#0#78"/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/en.lproj/InfoPlist.strings2551325216#501"    cd /Users/motodimago/dropbox/MagicaSlider    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary MagicaSlider/en.lproj/InfoPlist.strings --outdir /Users/motodimago/dropbox/MagicaSlider/build/Debug-iphonesimulator/MagicaSlider.app/en.lproj0#
+
+CCpResource build/Debug-iphonesimulator/MagicaSlider.app/bar.png MagicaSlider/Resource/bar.png
+s341853823.328999
+e341853823.351922
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MagicaSlider.app/bar.png
+xMagicaSlider/Resource/bar.png
+lSLF07#2@34"Copy MagicaSlider/Resource/bar.png341853823#341853823#0(0"0(0#0#68"/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/Resource/bar.png2551325216#492"    cd /Users/motodimago/dropbox/MagicaSlider    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/motodimago/dropbox/MagicaSlider/MagicaSlider/Resource/bar.png /Users/motodimago/dropbox/MagicaSlider/build/Debug-iphonesimulator/MagicaSlider.app0#
+
+CCpResource build/Debug-iphonesimulator/MagicaSlider.app/bar@2x.png MagicaSlider/Resource/bar@2x.png
+s341853823.329931
+e341853823.362269
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MagicaSlider.app/bar@2x.png
+xMagicaSlider/Resource/bar@2x.png
+lSLF07#2@37"Copy MagicaSlider/Resource/bar@2x.png341853823#341853823#0(0"0(0#0#71"/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/Resource/bar@2x.png2551325216#495"    cd /Users/motodimago/dropbox/MagicaSlider    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/motodimago/dropbox/MagicaSlider/MagicaSlider/Resource/bar@2x.png /Users/motodimago/dropbox/MagicaSlider/build/Debug-iphonesimulator/MagicaSlider.app0#
+
+CCpResource build/Debug-iphonesimulator/MagicaSlider.app/circle.png MagicaSlider/Resource/circle.png
+s341853823.330878
+e341853823.356876
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MagicaSlider.app/circle.png
+xMagicaSlider/Resource/circle.png
+lSLF07#2@37"Copy MagicaSlider/Resource/circle.png341853823#341853823#0(0"0(0#0#71"/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/Resource/circle.png2551325216#495"    cd /Users/motodimago/dropbox/MagicaSlider    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/motodimago/dropbox/MagicaSlider/MagicaSlider/Resource/circle.png /Users/motodimago/dropbox/MagicaSlider/build/Debug-iphonesimulator/MagicaSlider.app0#
+
+CCpResource build/Debug-iphonesimulator/MagicaSlider.app/circle@2x.png MagicaSlider/Resource/circle@2x.png
+s341853823.332026
+e341853823.346620
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MagicaSlider.app/circle@2x.png
+xMagicaSlider/Resource/circle@2x.png
+lSLF07#2@40"Copy MagicaSlider/Resource/circle@2x.png341853823#341853823#0(0"0(0#0#74"/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/Resource/circle@2x.png2551325216#498"    cd /Users/motodimago/dropbox/MagicaSlider    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/motodimago/dropbox/MagicaSlider/MagicaSlider/Resource/circle@2x.png /Users/motodimago/dropbox/MagicaSlider/build/Debug-iphonesimulator/MagicaSlider.app0#
+
+CGenerateDSYMFile /Users/motodimago/dropbox/MagicaSlider/build/Debug-iphonesimulator/MagicaSlider.app.dSYM /Users/motodimago/dropbox/MagicaSlider/build/Debug-iphonesimulator/MagicaSlider.app/MagicaSlider
+r0
+
+CLd /Users/motodimago/dropbox/MagicaSlider/build/Debug-iphonesimulator/MagicaSlider.app/MagicaSlider normal i386
+r0
+
+CProcessInfoPlistFile /Users/motodimago/dropbox/MagicaSlider/build/Debug-iphonesimulator/MagicaSlider.app/Info.plist MagicaSlider/MagicaSlider-Info.plist
+s341853821.891385
+e341853821.900458
+r1
+xProcessInfoPlistFile
+x/Users/motodimago/dropbox/MagicaSlider/build/Debug-iphonesimulator/MagicaSlider.app/Info.plist
+xMagicaSlider/MagicaSlider-Info.plist
+lSLF07#2@44"Process MagicaSlider/MagicaSlider-Info.plist341853821#341853821#0(0"0(0#0#75"/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/MagicaSlider-Info.plist4750400#507"    cd /Users/motodimago/dropbox/MagicaSlider    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility MagicaSlider/MagicaSlider-Info.plist -genpkginfo /Users/motodimago/dropbox/MagicaSlider/build/Debug-iphonesimulator/MagicaSlider.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/motodimago/dropbox/MagicaSlider/build/Debug-iphonesimulator/MagicaSlider.app/Info.plist0#
+
+CProcessPCH /var/folders/qC/qC2GNY0XEzWIyabkWRS3U++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MagicaSlider-Prefix-artsinyjbntiobfslvrvwzsnfnid/MagicaSlider-Prefix.pch.pth MagicaSlider/MagicaSlider-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s341853821.900685
+e341853822.447483
+r1
+xProcessPCH
+x/var/folders/qC/qC2GNY0XEzWIyabkWRS3U++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MagicaSlider-Prefix-artsinyjbntiobfslvrvwzsnfnid/MagicaSlider-Prefix.pch.pth
+xMagicaSlider/MagicaSlider-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@47"Precompile MagicaSlider/MagicaSlider-Prefix.pch341853821#341853822#0(0"0(0#0#75"/Users/motodimago/dropbox/MagicaSlider/MagicaSlider/MagicaSlider-Prefix.pch4750400#1963"    cd /Users/motodimago/dropbox/MagicaSlider    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/motodimago/dropbox/MagicaSlider/build/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/MagicaSlider-generated-files.hmap -I/Users/motodimago/dropbox/MagicaSlider/build/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/MagicaSlider-own-target-headers.hmap -I/Users/motodimago/dropbox/MagicaSlider/build/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/MagicaSlider-all-target-headers.hmap -iquote /Users/motodimago/dropbox/MagicaSlider/build/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/MagicaSlider-project-headers.hmap -F/Users/motodimago/dropbox/MagicaSlider/build/Debug-iphonesimulator -I/Users/motodimago/dropbox/MagicaSlider/build/Debug-iphonesimulator/include -I/Users/motodimago/dropbox/MagicaSlider/build/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/DerivedSources/i386 -I/Users/motodimago/dropbox/MagicaSlider/build/MagicaSlider.build/Debug-iphonesimulator/MagicaSlider.build/DerivedSources -c /Users/motodimago/dropbox/MagicaSlider/MagicaSlider/MagicaSlider-Prefix.pch -o /var/folders/qC/qC2GNY0XEzWIyabkWRS3U++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MagicaSlider-Prefix-artsinyjbntiobfslvrvwzsnfnid/MagicaSlider-Prefix.pch.pth0#
+
+CTouch /Users/motodimago/dropbox/MagicaSlider/build/Debug-iphonesimulator/MagicaSlider.app
+r0
+
